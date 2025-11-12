@@ -25,7 +25,7 @@ This notebook demonstrates practical steps for **model evaluation** and **overfi
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 The dataset (`laptops.csv`) was downloaded from **IBM Skills Network** (Coursera).  
 > **Note:** This dataset is publicly accessible and provided by IBM for educational use only.
 
@@ -40,7 +40,7 @@ The dataset (`laptops.csv`) was downloaded from **IBM Skills Network** (Coursera
 **Ridge Alpha vs R²:**
 - As `alpha` increases, variance reduces and generalization improves
 
-## 📜 Acknowledgment
+## Acknowledgment
 > **Data Source & Course Notice**  
 > This notebook was developed as part of the **IBM Developer Skills Network / Coursera: “Data Analysis with Python”** course practice lab.  
 > The lab materials and datasets are publicly accessible via IBM Skills Network and used **for educational purposes**.  
